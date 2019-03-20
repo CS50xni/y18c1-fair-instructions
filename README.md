@@ -8,7 +8,7 @@ Fecha Revisión de proyectos: ***29/04/2019 - 09/05/2019***
 
 A continuación se presentan los requesitos que deben cumplir cada proyecto al momento de la revisión
 
-> ***Nota:*** Los coordinadores de cada proyecto tienen que enviar un correo a ***academic@code-fu.net.ni*** adjuntando la dirección de correo y los nombres de usuario de github de cada uno de los integrantes del grupo.
+> ***Nota:*** Los coordinadores de cada proyecto deben que enviar un correo a ***academic@code-fu.net.ni*** adjuntando la dirección de correo y los nombres de usuario de github de cada uno de los integrantes del grupo para sumistrarles el repositorio con el que se trabajará su proyecto.
 
 
 ### Revisión 1:
