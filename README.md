@@ -15,3 +15,10 @@ A continuación se presentan los requesitos que deben cumplir cada proyecto al m
 * Proyecto base
   * Código base.
   * Archivo README con el planteamiento de su idea y la descripción de su proyecto.
+
+
+### Revisión 2:
+* Base de datos (Diagrama y modelo).
+* Interfaz de usuario principal.
+* 50% del código funcional de todo su proyecto.
+* Al menos 3 commits dentro del repositorio asignado.
