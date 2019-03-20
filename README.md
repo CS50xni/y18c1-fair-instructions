@@ -6,3 +6,12 @@
 
 Fecha Revisión de proyectos: ***29/04/2019 - 09/05/2019***
 
+A continuación se presentan los requesitos que deben cumplir cada proyecto al momento de la revisión:
+
+
+### Revisión 1:
+* Planteamiento de la ***idea*** en la que se basa su proyecto.
+* Maquetación del proyecto.
+* Proyecto base
+  * Código base.
+  * Archivo README con el planteamiento de su idea y la descripción de su proyecto.
