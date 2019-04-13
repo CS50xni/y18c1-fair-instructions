@@ -35,3 +35,5 @@ A continuación se presentan los requesitos que deben cumplir cada proyecto al m
 * Betatest (Pruebas de rendimiento y errores).
 * Debug (Detección de los diferentes errores que puedan presentarse).
 * Solutions (Soluciones a los errores presentados durante el ***betatest*** y el ***debug***).
+
+/*Comentarios con fines educativos*/
